@@ -1,6 +1,6 @@
 # Rosix
 
-Experiments with OS on Rust on the blog https://os.phil-opp.com/
+Experiments with OS on Rust according to information from the blog: https://os.phil-opp.com/
 
 # Build this on Gentoo Linux
 
